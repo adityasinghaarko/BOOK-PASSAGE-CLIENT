@@ -1,0 +1,20 @@
+.card{
+    width: 18rem;
+    border-radius:10px;
+    border-color:white;
+    margin:20px;
+}
+
+.cardImage {
+    padding:30px;
+    background-color:lightgrey;
+    border-radius:10px;
+}
+
+.cardImage img{
+    height:300px;
+}
+
+.cardButton{
+    background-color:purple;
+}
